@@ -1,12 +1,12 @@
-#!usr/bin/python3
-""" Moudle that contains a function that reads from a file """
+#!/usr/bin/python3
+""" Module that contains a function that reads from a file """
 
 
 def read_file(filename=""):
     """ Function that reads from a file
 
-    Args: 
-     filename: filename
+    Args:
+        filename: filename
 
     Raises
         Exception: when the file can be opened
